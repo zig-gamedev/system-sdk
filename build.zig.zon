@@ -1,7 +1,6 @@
 .{
     .name = "system-sdk",
-    .version = "0.2.0",
-    .minimum_zig_version = "0.13.0-dev.351+64ef45eb0",
+    .version = "0.3.0-dev",
     .paths = .{
         "build.zig",
         "build.zig.zon",
