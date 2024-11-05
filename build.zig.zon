@@ -1,5 +1,5 @@
 .{
-    .name = "system-sdk",
+    .name = "system_sdk",
     .version = "0.3.0-dev",
     .paths = .{
         "build.zig",
