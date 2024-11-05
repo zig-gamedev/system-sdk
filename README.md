@@ -1,6 +1,6 @@
 # [zig-gamedev system_sdk](https://github.com/zig-gamedev/system_sdk)
 
-System libraries and headers for cross-compiling [zig-gamedev libs](https://github.com/zig-gamedev/#libraries)
+System libraries and headers for cross-compiling [zig-gamedev libraies and sample applications](https://github.com/zig-gamedev).
 
 ## Usage
 build.zig
