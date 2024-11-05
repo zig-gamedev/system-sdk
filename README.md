@@ -1,4 +1,4 @@
-# [zig-gamedev system-sdk](https://github.com/zig-gamedev/system_sdk)
+# [zig-gamedev system_sdk](https://github.com/zig-gamedev/system_sdk)
 
 System libraries and headers for cross-compiling [zig-gamedev libs](https://github.com/zig-gamedev/#libraries)
 
